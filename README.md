@@ -23,7 +23,7 @@
 
 ## 🎯 Demonstração
 
-[![Ver Demonstração](https://img.shields.io/badge/Ver-Demo-brightgreen?style=for-the-badge)](https://youtube.com)
+[![Ver Demonstração](https://img.shields.io/badge/Ver-Demo-brightgreen?style=for-the-badge)](https://ricaprof.github.io/coin/)
 
 ## 🚀 Como Executar Localmente
 
